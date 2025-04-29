@@ -100,6 +100,8 @@ ___
 - [x] Completed
 - [ ] Pending
 ```
+- [x] Completed
+- [ ] Pending
 
 **Escaping**  
 Use backslash: \*not italic\*
